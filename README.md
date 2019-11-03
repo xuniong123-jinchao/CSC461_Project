@@ -3,4 +3,4 @@
 
 
 #### Project Proposal
-The first step of the project is writing a proposal to plan for the whole project. The project can be found [here](https://github.com/xuniong123-jinchao/CSC561_Project/blob/master/proposal.md).
+The first step of the project is writing a proposal to plan for the whole project. The project can be found [here](https://xuniong123-jinchao.github.io/CSC561_Project/Proposal.html/).
