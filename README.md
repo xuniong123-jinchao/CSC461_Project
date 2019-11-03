@@ -9,3 +9,5 @@ The first step of the project is writing a proposal to plan for the whole projec
 
 ## Updata 
 ### Nov 2nd
+
+The first update is about the introduction and research of Carplay, which is available [here](https://xuniong123-jinchao.github.io/CSC561_Project/report.html).
