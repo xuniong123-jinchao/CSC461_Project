@@ -18,3 +18,5 @@ Weekly schedule
 	...
 	Week 6: Result analysing and draft for review
 	Week 7: Final report and website completed
+
+#### The website can be found [here](https://xuniong123-jinchao.github.io/CSC561_Project/).
