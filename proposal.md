@@ -9,7 +9,7 @@ According to a research from the AAA Foundation for Traffic Safety, Apple CarPla
 What we should explore further are something more in technical aspects, such as things needed to keep iPhones and vehicle head units in synchronization. We have found web pages and articles about the APIs provided by Apple and protocols to set up and switch between wired and wireless (Bluetooth/Wi-Fi) connections.
 
 #### Evaluate and do better
-To be determined.
+Not required.
 
 #### Expected deliverables
 Report
