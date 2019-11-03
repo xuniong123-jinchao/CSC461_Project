@@ -4,10 +4,10 @@
 
 ### Project Proposal
 
-The first step of the project is writing a proposal to plan for the whole project. The project can be found [here](https://xuniong123-jinchao.github.io/CSC561_Project/proposal.html).
+The first step of the project is writing a proposal to plan for the whole project. The project can be found [here](https://xuniong123-jinchao.github.io/CSC461_Project/proposal.html).
 
 
 ## Updata 
 ### Nov 2nd
 
-The first update is about the introduction and research of Carplay, which is available [here](https://xuniong123-jinchao.github.io/CSC561_Project/report.html).
+The first update is about the introduction and research of Carplay, which is available [here](https://xuniong123-jinchao.github.io/CSC461_Project/report.html).
