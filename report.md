@@ -45,6 +45,9 @@ The car settings contain a virtual CarPlay screen. You can move apps around this
 Users can move an app from one page of apps to another page by dragging it to the very left or right edge of the virtual CarPlay's screen and then pausing while the screen flips to the new page.[5]
 You can also hide an app by tapping the minus sign on the icon. This moves it to a menu of hidden apps just below the virtual CarPlay screen. You can add it back again by simply tapping it.
 
+Carplay also allow users to add third-party Apps from App Store, such as WhatsApp, Spotify, BBC Sounds, Amazon Music, Google Play Music, iPlayer Radio, CBS Radio, Pandora and Waze. Users can customize the layout of the homescreen by themselves or tap the 'General' to automaticlly generate the screen.
+
+
 ### Voice control using Siri
 
 Carplay have the ability to use Siri hands-free when driving, and can be done in one or two ways. One way is to use the Voice control button on the steering wheel of most, to hold the button until the users can hear the sound of Siri. Those using an aftermarket installation, or those that simply don’t want to hold a button to activate Siri, can use ‘Hey Siri’ on the iPhone to activate the virtual assistant, although results tend to be hit and miss if the environment is loud (car engine, music, etc). It’s also limited to newer iPhones (iPhone 6s and 6s Plus or newer).[4]
@@ -61,3 +64,26 @@ https://www.intego.com/mac-security-blog/apples-carplay-is-a-useful-extension-to
 https://www.macrumors.com/roundup/carplay/
 https://www.macworld.co.uk/how-to/apple/use-carplay-3655285/
 https://www.salon.com/2018/07/08/study-finds-apples-carplay-googles-android-less-distracting-but-still-not-safe_partner/
+
+
+
+# Disscussion
+
+## The AAA Foundation for Trafic Safety
+
+The AAA Foundation for trafic safety is founded in 1997, which is volunteering not profitable.[1] It provides relevant research and forms public orgranization to support trafic safety and save lives.Many research and strategies are created and conducted to prevent traffic crashes and reduce injuries when they do occurs. The foundation was initially provided for traffic safety education and patrols, and it has took up the main seats of traffic satety at present.[3] The compasion bettween Apple Carplay and other native infotain
+ment systems are mainly from recent research from the AAA Foundation of trafic safety.
+
+## Android Auto Infotainment App
+
+Like Apple CarPlay, Android Auto was developed to encourage motorists to keep their eyes on the road and their hands on the steering wheel. It works by Android operation system and contains the Google Maps-powered navigation system, which provides step-by-step directions and automatically finds an alternate route if it detects heavy traffic.[4] In addition, Android Auto works with a variety of third-party apps in Google Play, all of which have been updated to integrate with Auto's specialized interface. These include messaging apps such as Kik, WhatsApp and Skype. There's also music apps including Pandora, Spotify and Google Play Music, natch. And there are audio apps ranging from Audible and NPR One to Overdrive and Stitcher.
+
+In contrast, CarPlay is quite limited with regard to which third-party apps user could use because to add an app that can support IOS OS is more difficult than Andriod. However, compared to Google Play, 
+
+#### Sources
+https://aaafoundation.org/wp-content/uploads/2018/06/AAA-Phase-6-CarPlay-Android-Auto-FINAL.pdf
+https://www.salon.com/2018/07/08/study-finds-apples-carplay-googles-android-less-distracting-but-still-not-safe_partner/
+https://aaafoundation.org/
+https://www.researchgate.net/publication/325180444_Vulnerability_Analysis_of_Android_Auto_Infotainment_Apps
+https://www.digitaltrends.com/cars/what-is-android-auto/
+https://citrusbits.com/difference-app-store-vs-google-play-store/
