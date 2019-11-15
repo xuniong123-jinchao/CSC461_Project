@@ -72,13 +72,40 @@ https://www.salon.com/2018/07/08/study-finds-apples-carplay-googles-android-less
 ## The AAA Foundation for Trafic Safety
 
 The AAA Foundation for trafic safety is founded in 1997, which is volunteering not profitable.[1] It provides relevant research and forms public orgranization to support trafic safety and save lives.Many research and strategies are created and conducted to prevent traffic crashes and reduce injuries when they do occurs. The foundation was initially provided for traffic safety education and patrols, and it has took up the main seats of traffic satety at present.[3] The compasion bettween Apple Carplay and other native infotain
-ment systems are mainly from recent research from the AAA Foundation of trafic safety.
+ment systems are mainly from recent research of the AAA Foundation of trafic safety.
 
-## Android Auto Infotainment App
+## Comparsion with Android Auto Infotainment App
 
-Like Apple CarPlay, Android Auto was developed to encourage motorists to keep their eyes on the road and their hands on the steering wheel. It works by Android operation system and contains the Google Maps-powered navigation system, which provides step-by-step directions and automatically finds an alternate route if it detects heavy traffic.[4] In addition, Android Auto works with a variety of third-party apps in Google Play, all of which have been updated to integrate with Auto's specialized interface. These include messaging apps such as Kik, WhatsApp and Skype. There's also music apps including Pandora, Spotify and Google Play Music, natch. And there are audio apps ranging from Audible and NPR One to Overdrive and Stitcher.
+Like Apple CarPlay, Android Auto was developed to encourage motorists to keep their eyes on the road and their hands on the steering wheel. It works by Android operation system and contains the Google Maps-powered navigation system, which provides step-by-step directions and automatically finds an alternate route if it detects heavy traffic.[5] In addition, Android Auto works with a variety of third-party apps in Google Play, all of which have been updated to integrate with Auto's specialized interface. These include messaging apps such as Kik, WhatsApp and Skype. There's also music apps including Pandora, Spotify and Google Play Music, natch. And there are audio apps ranging from Audible and NPR One to Overdrive and Stitcher.
 
-In contrast, CarPlay is quite limited with regard to which third-party apps user could use because to add an app that can support IOS OS is more difficult than Andriod. However, compared to Google Play, 
+In contrast, CarPlay is quite limited with regard to which third-party apps user could use because to add an app that can support IOS OS is more difficult than Andriod. However, App store is safer as compared to Google Play Store.[6] That is true because App Store takes considerable time in reviewing any application and then uploading on the main platform. App Store scrutiny criteria are based on a high-quality standard that is why it takes so much review time. Google Play Store contains some low-quality apps, and its reviews and uploading process is not as complex as compared to App Store.
+
+![Android Auto](image/rg-android-auto-5-720x720.jpg)
+
+According to a recent Vulnerability Analysis of Android Infotainment Apps, a set of potential security threats are identified, and a static analyzer for the Android Auto infotainment system is presented.All the infotainment apps available in Google Play Store have been checked against that list of possible exposure scenarios. Results show that almost 80% of the apps are potentially vulnerable, out of which 25% poses security threats related to execution of JavaScript. CCS CONCEPTS • Security and privacy → Abstract Interpretation; Static Analysis;[3] In that case, those threat App connect to the Internet, hence gather information about the nearby area or the presence of parking slots. Such possibilities enhance the driving experience, but are also security concerns since apps can leak arbitrary data, including sensitive information on car, movements and drivers. Moreover, they can send dangerous commands: lock or unlock the car, activate its brakes, turn the engine on or off, accelerate, turn on the windshield wipers, and so on.[3]
+
+
+
+## Comparison with native system
+
+CarPlay is always marketed as being easier to use than native infotainment system by providing a unique interface for drivers to interact with it in user-friendly way. A research that involves an on-road evaulation of both Carplay and Android Auto in five different vehicles as participants performed a series of task types using different modes of interaction, which is aimed to test whether these hybrid is better than native system in different vihicles and how they achieve the traffic safety.
+
+The vehicles tested are: 
+• 2017 Honda Ridgeline RTL-E (HondaLink)
+• 2017 Ford Mustang GT (SYNC 3)
+• 2018 Chevrolet Silverado LT (MyLink)
+• 2018 Kia Optima (UVO)
+• 2018 Ram 1500 Laramie (Uconnect)
+
+
+## Result
+
+For the new study, test drivers performed an assigned set of tasks while driving five 2017 and 2018 model vehicles equipped with cameras along a two-mile stretch of a residential street at about 25 miles per hour. Using all three options — the in-vehicle controls, CarPlay and Android Auto — they played music, made calls, sent texts and programmed navigation.[2]
+
+Most tasks were performed more easily and quickly with the smartphone-based systems. For example, sending a text was, on average, 5 seconds — or 24 percent — faster with CarPlay and Android Auto than with the built-in systems. Programming navigation was 15 seconds — or 31 percent — faster with the smartphone systems. However, that meant programming navigation still took an average of 33 seconds with the smartphone-based systems. In 33 seconds, the AAA foundation noted, a car travelling at 25 miles per hour covers the length of three football fields. 
+
+Hence, Carplay is less distracting but improvement are necessary to gurantee the safety while driving. 
+
 
 #### Sources
 https://aaafoundation.org/wp-content/uploads/2018/06/AAA-Phase-6-CarPlay-Android-Auto-FINAL.pdf
@@ -87,3 +114,4 @@ https://aaafoundation.org/
 https://www.researchgate.net/publication/325180444_Vulnerability_Analysis_of_Android_Auto_Infotainment_Apps
 https://www.digitaltrends.com/cars/what-is-android-auto/
 https://citrusbits.com/difference-app-store-vs-google-play-store/
+https://developer.apple.com/carplay/
