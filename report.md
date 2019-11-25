@@ -31,7 +31,7 @@ Apple's list includes over 400 new 2016, 2017, and 2018 models from more than 20
 
 ## User Case Analysis
 
-### Customize the Carplay Screen
+### Customize the CarPlay Screen
 
 Users can customize the CarPlay screen by moving popular third-party apps to the main screen or even hiding some of the default apps. It's actually quite easy, and you can do it anytime on your iPhone -- even when you don't have CarPlay active.
 
@@ -50,7 +50,7 @@ Carplay also allow users to add third-party Apps from App Store, such as WhatsAp
 
 ### Voice control using Siri
 
-Carplay have the ability to use Siri hands-free when driving, and can be done in one or two ways. One way is to use the Voice control button on the steering wheel of most, to hold the button until the users can hear the sound of Siri. Those using an aftermarket installation, or those that simply don’t want to hold a button to activate Siri, can use ‘Hey Siri’ on the iPhone to activate the virtual assistant, although results tend to be hit and miss if the environment is loud (car engine, music, etc). It’s also limited to newer iPhones (iPhone 6s and 6s Plus or newer).[4]
+Carplay has the ability to use Siri hands-free when driving, and can be done in one or two ways. One way is to use the Voice control button on the steering wheel of most, to hold the button until the users can hear the sound of Siri. Those using an aftermarket installation, or those that simply don’t want to hold a button to activate Siri, can use ‘Hey Siri’ on the iPhone to activate the virtual assistant, although results tend to be hit and miss if the environment is loud (car engine, music, etc). It’s also limited to newer iPhones (iPhone 6s and 6s Plus or newer).[4]
 
 Siri voice control can be used for navigation, read/send text and browse for music. Siri can also help users make calls on the go without distracting users from the road. Simply say “Call someone/name” or “return my last call” and Siri will handle the rest. In fact, users can even get it to play back recent voicemails if users ask it to. Meanwhile, these options are also available via the CarPlay dashboard in the Phone app, but it’s not recommended that users interact with the touchscreen while driving.[4]
 
