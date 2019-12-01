@@ -66,6 +66,7 @@ https://www.intego.com/mac-security-blog/apples-carplay-is-a-useful-extension-to
 https://www.macrumors.com/roundup/carplay/
 https://www.macworld.co.uk/how-to/apple/use-carplay-3655285/
 https://www.salon.com/2018/07/08/study-finds-apples-carplay-googles-android-less-distracting-but-still-not-safe_partner/
+https://www.youtube.com/watch?v=Bloa9illEh0&feature=youtu.be
 
 
 
