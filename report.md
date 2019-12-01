@@ -54,6 +54,8 @@ Carplay has the ability to use Siri hands-free when driving, and can be done in 
 
 Siri voice control can be used for navigation, read/send text and browse for music. Siri can also help users make calls on the go without distracting users from the road. Simply say “Call someone/name” or “return my last call” and Siri will handle the rest. In fact, users can even get it to play back recent voicemails if users ask it to. Meanwhile, these options are also available via the CarPlay dashboard in the Phone app, but it’s not recommended that users interact with the touchscreen while driving.[4]
 
+[![image](images/temp.gif)](https://youtu.be/Bloa9illEh0)
+
 ## Summary
 
 Carplay is always said to be less disstracting for drivers than other system now on the current market. According to the user-side design and convenient functions search, Carplay suppose to be user-friendly and Apple relevant still tried to improve it in the latest IOS 13 update. The next section will search for reseach about Carplay disstracting tests, such as the time used for each function of Carplay during driving by different operations, and the comparsion between Carplay, Andriod Auto and other car-inner operation systems of some automobiile manufacturers.
