@@ -17,3 +17,7 @@ The first update is about the introduction and research of Carplay, which is ava
 
 The second update is about the comparsion betwween Apple Carplay, Android Auto and other native infotainment systems, 
 which is still available [here](https://xuniong123-jinchao.github.io/CSC461_Project/report.html).
+
+### Dec 1st
+
+The presentation for how to create an App for Apple CarPlay is now avaliable [here](
