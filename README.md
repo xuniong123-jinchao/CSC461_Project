@@ -20,4 +20,4 @@ which is still available [here](https://xuniong123-jinchao.github.io/CSC461_Proj
 
 ### Dec 1st
 
-The presentation for how to create an App for Apple CarPlay is now avaliable [here](
+The presentation for how to create an App for Apple CarPlay is now avaliable [here](https://www.youtube.com/watch?v=MtjlfSjv1QU&feature=youtu.be)
