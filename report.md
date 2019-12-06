@@ -99,8 +99,30 @@ The vehicles tested are:
 • 2018 Kia Optima (UVO)
 • 2018 Ram 1500 Laramie (Uconnect)
 
+During the study, participants interacted with the CarPlay, Android Auto or native OEM system
+to perform tasks involving audio entertainment, calling and/or dialing, navigation, and text
+messaging:
 
-## Result
+● Audio Entertainment: Participants changed the music to contents downloaded onto the
+phone connected via USB. The iPhone 7 and Pixel 2 music contents were identical, but
+Android Auto uses the Google Play streaming service, whereas Apple CarPlay plays
+files stored on the phone.
+● Calling and Dialing: A list of 91 contacts with a mobile and/or work number was
+created for participant testing. Participants were instructed to call designated contacts
+and the associated number type was specified when applicable. In vehicles capable of
+dialing phone numbers, participants were instructed to dial the phone number 801-555-
+1234 as well as their own phone number.
+● Text Messaging: Participants were provided with hypothetical scenarios in which they
+received text messages from various contacts and were instructed to respond via text.
+Text messages were created by participants using both center stack and auditory vocal
+modes for each system.
+● Navigation: Participants started and canceled route guidance to different locations
+based on hypothetical situations they were given that differed slightly according to the
+options available in each system. 
+
+The result for this study is obviously, CarPlay provides more functionality and resulted in lower levels of workload than the native infotainment systems. To be more specific, CarPlay and Andriod Auto incurred moderately high levels of demand, thus providng opportunities to improve the user experience. For example, CarPlay had lower overall demand than Andriod Anuto for sending messages and Andriod Auto had lower overall demand than CarPlay for destination entry to support navigation. Hence, CarPlay can be improved more based on the advantage of Andriod Auto.
+
+## Conclusion
 
 For the new study, test drivers performed an assigned set of tasks while driving five 2017 and 2018 model vehicles equipped with cameras along a two-mile stretch of a residential street at about 25 miles per hour. Using all three options — the in-vehicle controls, CarPlay and Android Auto — they played music, made calls, sent texts and programmed navigation.[2]
 
