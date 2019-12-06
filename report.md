@@ -125,7 +125,7 @@ options available in each system.
 
 The result for this study is obviously, CarPlay provides more functionality and resulted in lower levels of workload than the native infotainment systems. To be more specific, CarPlay and Andriod Auto incurred moderately high levels of demand, thus providng opportunities to improve the user experience. For example, CarPlay had lower overall demand than Andriod Anuto for sending messages and Andriod Auto had lower overall demand than CarPlay for destination entry to support navigation. Hence, CarPlay can be improved more based on the advantage of Andriod Auto.
 
-## Conclusion
+# Conclusion
 
 For the new study, test drivers performed an assigned set of tasks while driving five 2017 and 2018 model vehicles equipped with cameras along a two-mile stretch of a residential street at about 25 miles per hour. Using all three options — the in-vehicle controls, CarPlay and Android Auto — they played music, made calls, sent texts and programmed navigation.[2]
 
