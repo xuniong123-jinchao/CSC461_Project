@@ -107,15 +107,18 @@ messaging:
 phone connected via USB. The iPhone 7 and Pixel 2 music contents were identical, but
 Android Auto uses the Google Play streaming service, whereas Apple CarPlay plays
 files stored on the phone.
+
 ● Calling and Dialing: A list of 91 contacts with a mobile and/or work number was
 created for participant testing. Participants were instructed to call designated contacts
 and the associated number type was specified when applicable. In vehicles capable of
 dialing phone numbers, participants were instructed to dial the phone number 801-555-
 1234 as well as their own phone number.
+
 ● Text Messaging: Participants were provided with hypothetical scenarios in which they
 received text messages from various contacts and were instructed to respond via text.
 Text messages were created by participants using both center stack and auditory vocal
 modes for each system.
+
 ● Navigation: Participants started and canceled route guidance to different locations
 based on hypothetical situations they were given that differed slightly according to the
 options available in each system. 
